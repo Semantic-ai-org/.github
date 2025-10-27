@@ -74,36 +74,6 @@ Semantic AI is building the future of secure software development by providing A
 - **Actionable Insights**: Provides specific fixes, not just warnings
 - **Fast Analysis**: Sub-minute analysis for typical PRs
 
-## Development Roadmap
-
-### Week 1 (Complete) ✅
-- [x] Core semantic engine with AST parsing
-- [x] Security rules engine (17+ rules)
-- [x] Production readiness scoring
-- [x] GitHub App integration
-- [x] FastAPI application with 15+ endpoints
-- [x] Docker/Kubernetes deployment
-- [x] Comprehensive test suite
-
-### Week 2 (In Progress) ⏳
-- [ ] Real-world integration testing
-- [ ] Performance optimization
-- [ ] Beta customer deployment
-- [ ] Customer experience polish
-
-### Week 3 (Planned) 📅
-- [ ] Production launch
-- [ ] Product Hunt submission
-- [ ] Post-launch monitoring
-- [ ] Customer feedback integration
-
-### Q2 2024 Goals
-- [ ] 3+ paying customers
-- [ ] $100K+ ARR
-- [ ] Expanded rule library (50+ rules)
-- [ ] Advanced detection capabilities
-- [ ] Enterprise features
-
 ## Security Focus
 
 ### Vulnerabilities We Detect
@@ -135,22 +105,13 @@ Semantic AI is building the future of secure software development by providing A
 ## Resources
 
 ### Documentation
-- **[Main Repository](https://github.com/semantic-ai/semantic-ai)**: Core engine and API
-- **[Documentation](https://docs.semanticai.dev)**: Comprehensive guides
-- **[Security Patterns](Docs/security-patterns.md)**: Security rule documentation
-- **[API Reference](https://api.semanticai.dev)**: Complete API documentation
+
 
 ### Community
-- **GitHub Discussions**: [Join the conversation](https://github.com/semantic-ai/discussions)
-- **Discord**: [Real-time chat](https://discord.gg/semantic-ai)
-- **Twitter**: [@SemanticAI](https://twitter.com/semanticai)
-- **LinkedIn**: [Company Page](https://linkedin.com/company/semantic-ai)
+
 
 ### Learning
-- **Blog**: [Technical insights](https://blog.semanticai.dev)
-- **Tutorials**: [Step-by-step guides](https://tutorials.semanticai.dev)
-- **Webinars**: [Monthly security webinars](https://webinars.semanticai.dev)
-- **Case Studies**: [Customer success stories](https://cases.semanticai.dev)
+
 
 ## Target Audience
 
@@ -160,26 +121,6 @@ Semantic AI is building the future of secure software development by providing A
 - **DevOps Teams**: Implementing security in CI/CD pipelines
 - **Startups**: Fast-moving teams using AI for development
 
-### Use Cases
-- **AI Code Review**: Automated security review of AI-generated code
-- **CI/CD Integration**: Security checks in deployment pipelines
-- **Compliance**: Meeting security standards and regulations
-- **Training**: Security awareness for development teams
-
-## Business Model
-
-### Pricing Tiers
-- **Freemium**: 1,000 analyses/month free
-- **Starter**: $99/month (10K analyses)
-- **Professional**: $499/month (100K analyses)
-- **Enterprise**: Custom pricing with SLA
-
-### Revenue Streams
-- **SaaS Subscriptions**: Monthly/annual plans
-- **Enterprise Licenses**: On-premise deployments
-- **Professional Services**: Custom integrations
-- **Training & Consulting**: Security education
-
 ## Getting Started
 
 ### For Developers
@@ -187,56 +128,4 @@ Semantic AI is building the future of secure software development by providing A
 2. **Configure**: Set up GitHub App integration
 3. **Analyze**: Start reviewing PRs automatically
 4. **Customize**: Add custom security rules
-
-### For Organizations
-1. **Contact**: Reach out to sales@semanticai.dev
-2. **Demo**: Schedule a personalized demo
-3. **Pilot**: Start with a pilot program
-4. **Scale**: Deploy across your organization
-
-### For Contributors
-1. **Fork**: Fork our main repository
-2. **Contribute**: Submit security rules or features
-3. **Community**: Join our Discord community
-4. **Recognition**: Get featured as a contributor
-
-## Contact
-
-### General Inquiries
-- **Email**: hello@semanticai.dev
-- **Website**: https://semanticai.dev
-- **GitHub**: https://github.com/semantic-ai
-
-### Sales & Partnerships
-- **Email**: sales@semanticai.dev
-- **Calendly**: [Schedule a call](https://calendly.com/semantic-ai)
-
-### Support & Technical
-- **Email**: support@semanticai.dev
-- **GitHub Issues**: [Report bugs](https://github.com/semantic-ai/issues)
-- **Discord**: [Get help](https://discord.gg/semantic-ai)
-
-### Security
-- **Email**: security@semanticai.dev
-- **PGP**: [Security key](https://semanticai.dev/security)
-
-## Acknowledgments
-
-### Built With
-- [Tree-sitter](https://tree-sitter.github.io/tree-sitter/) - Multi-language AST parsing
-- [Semgrep](https://semgrep.dev/) - Static analysis engine
-- [Voyage AI](https://voyageai.com/) - Advanced embeddings
-- [FastAPI](https://fastapi.tiangolo.com/) - Modern Python web framework
-- [Next.js](https://nextjs.org/) - React framework for production
-
-### Community
-- **Contributors**: [See our contributors](https://github.com/semantic-ai/semantic-ai/graphs/contributors)
-- **Beta Testers**: Early adopters providing feedback
-- **Security Researchers**: Helping improve our detection
-- **Open Source Community**: Supporting our mission
-
----
-
-**Ready to make AI-generated code safer? [Get started now!](https://semanticai.dev/get-started)**
-
 
