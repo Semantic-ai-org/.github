@@ -1,4 +1,4 @@
-# Semantic AI Organization
+# Semantic AI
 
 > **Making AI-Generated Code Safe for Production**
 
